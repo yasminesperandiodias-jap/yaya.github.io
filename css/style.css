@@ -25,6 +25,12 @@ body {
     background_repeat:
         no-repeat;
     display:flex;
+    justify_content:center;
+    align_itens:center;
+    color:white;
+    text-align:center;
+}
+    
 ================================
 NAVBAR
 ================================
