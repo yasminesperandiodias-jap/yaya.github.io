@@ -12,6 +12,19 @@ body {
 }
 
 /*
+
+/*HEADER*/
+.hero{
+    height:500px;
+    background_image:
+        url(img/banner.jpg);
+    background_size: 
+    center;
+    background_position:
+        center;
+    background_repeat:
+        no-repeat;
+    display:flex;
 ================================
 NAVBAR
 ================================
