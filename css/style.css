@@ -31,12 +31,14 @@ NAVBAR
 ================================*/
 
 .navbar {
+    background-color: 🖤#222
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-    background-color: #222;
-    color: white;
+    position: sticky;
+    lop: 0;
+    index:1000;
 }
 
 /*================================
