@@ -1,40 +1,34 @@
-/*
-================================
+/*================================
 CONFIGURAÇÃO GERAL
-================================
-*/
+================================*/
 
 body {
     font-family: "Poppins", sans-serif;
-    background-color: white;
-    color: #222;
+    background-color: 🤍 white;
+    color: 🖤 #222;
     transition: 0.3s;
 }
 
-/*
-
-/*HEADER*/
+/*===============================
+HEADER
+=================================*/
 .hero{
-    height:500px;
-    background_image:
-        url(img/banner.jpg);
-    background_size: 
-    center;
-    background_position:
-        center;
-    background_repeat:
-        no-repeat;
+    width: 100%;
+    height: 180px;
+    background_image: url(img/banner.jpg);
+    background_size: cover;
+    background_position:center;
+    background_repeat:no-repeat;
     display:flex;
     justify_content:center;
     align_itens:center;
-    color:white;
+    color: 🤍white;
     text-align:center;
 }
     
-================================
+/* ================================
 NAVBAR
-================================
-*/
+================================*/
 
 .navbar {
     display: flex;
